@@ -2,7 +2,7 @@
 
 ## This Webpage allows new boot camp students the opportunity to easily find and read information on a webpage
 
-- I was motivated to make this project so I can learn the basics of coding and help any new boot camp students?
+- I was motivated to make this project so I can learn the basics of coding and help any new boot camp students
 - I built this project to act as a study guide on the fundamentals of coding
 - This project solves the problem of not being able to easily find and read information
 - I learned how to build a webpage using HTML, CSS, Git, and JavaScript
